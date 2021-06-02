@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  passing: 0;
+}
+
+.first {
+  width: 100%;
+  height: 200px;
+  background-image: url(/Users/kenichikojima/Desktop/Chapter6assignment/chapter6_exercise/img/box1.jpg);
+}
+
+.second {
+  width: 100%;
+  height: 200px;
+  background-image: url(/Users/kenichikojima/Desktop/Chapter6assignment/chapter6_exercise/img/box2.jpg);
+}
+
+.third {
+  width: 100%;
+  height: 200px;
+  background-image: url(/Users/kenichikojima/Desktop/Chapter6assignment/chapter6_exercise/img/box3.jpg);
+}
+
+.fourth {
+  width: 100%;
+  height: 200px;
+  background-image: url(/Users/kenichikojima/Desktop/Chapter6assignment/chapter6_exercise/img/box4.jpg);
+}
